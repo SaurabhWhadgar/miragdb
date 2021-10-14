@@ -4,7 +4,7 @@
 
 ##loading DESeq
 .libPaths("/opt/R-3.4.2/library")
-library("DESeq")
+library("DESeq2")
 library(pheatmap)
 
 #read the read counts file with headers.
